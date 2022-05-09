@@ -1,0 +1,9 @@
+/*gameinfo {
+	addeventhandlers = "ShowBox", "FreeAim", "TextCandleGl"
+	playerclasses = "NoTurnPlayer"
+}*/
+
+map mupersap "eck" {
+	sky1 = "sky1"
+	pixelratio = 1.2
+}

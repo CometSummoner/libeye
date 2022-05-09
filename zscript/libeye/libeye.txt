@@ -1,0 +1,80 @@
+                 libeye (for projection and deprojection)
+				 written by KeksDose / MemeDose (May 2019)
+						 (updated September 2020)
+						   
+
+All the code in the directory "libeye" was written by me ♥ Here are the unprofessional copyright and
+reuse permissions in brief.
+
+(1) You can reuse and edit this. Keep this file and the directory structure intact and make sure I'm
+credited respectfully. That is, credit me in the most obvious places you have credited other people
+in your mod. If there's a credit screen in game, credit me there. Credit me as "KeksDose" (or even
+"KeksDose, praise Mima" if you like). Capitalise the D.
+
+If you edit this, don't change this file or the terms coming with libeye. You can however add
+another text file that details what you changed.
+
+(2) I only allow usage in mods for gzdoom or zdoom-derived in general.
+
+(3) I don't allow usage in commercial projects.
+
+(4) I don't allow rehosting or compilation into resource mods, even when edited, unless it's a
+situation of the link I posted being broken. But even then, I don't allow it to be hosted on a
+repository like Realm667.
+
+(5) If this ever becomes a thing: I also don't allow usage in encrypted mods.
+
+
+
+
+          //                                                                  
+          //                                                                  
+        /////((                                                               
+   @@//////////  ((                                                           
+ ((  %////((/////   ((     ((              ((                                 
+   (( @@//(((///////    (((  //////////////       ((                          
+     (  /////////////////////////(((((((//////////   ((                       
+        @@///@@@@@@//////////(((((((((//@@@//////////    ((                   
+      ((  /////  /////((((((((((((((//@@%  %%@///////////   ((                
+          //////////((((((((((((((//////((((( %%@@//////////  ((              
+        ((%%//////////@@%% @@//(((((((///    (  (((( %%/////////  (           
+        ((  ////////@@  (((  @@//(((((((///// ((    (  @@/////////            
+        ((/////////@  ((   ((  @@/(((((((/////    (( ((  @@/((((///((         
+      ((  ///((//@@ ((       ((  %@@@@@@//////////   ((((  /((((///  ((       
+      ((/////((//%%(              ////%%%@@//////////      @//((((///         
+        ////(((//            /////////   //@@/////////////////(((((//         
+     (  ////(((////(    //////////////////////@@@@////////////(((((////((     
+      ////(((((((//   ////////////////////////////   %%@@///(((((((((//  (    
+      //(((((((((///////////////////    ////////////     %%@//(((((((//// ((  
+      //(((((((((((////////////((///    ///////////////     @@//(((((((///    
+      //(((((((((((////////((     /////////((////////////  (  //(((((((///////
+      //(((((((  ((///////(  #####  ////(       ((///////  (  @@//(((((///////
+      //(((((((  (((//////(((  ###  ((((   #####  ((/////// ((  //(((///////@@
+      //((((((((((((@@/////////(((((((((((((((((((((/////     ///////////%  ((
+      //((((((((((((%%    ///////((((((((((((////////  //////////////@@%% ((  
+      @@//(((((((((/%%((   ///////////////////////  /////////////////  (((    
+     (  //(((((((((/    ((                    ///////////////////////         
+        %%//(((((((///((   ((                //////////////@///////%%         
+      ((  @@/((((((///((            ((   //////////////@@%% ///////  ((       
+        ((  /(((((((//           (    //////////////@%%     //////%((         
+          (( @@//(((////(( ((  /////(((((((///@@  (((    ///////  (           
+            (  @@(((((//  (  ////(((((((///@@%  (((( /////////%%((            
+             ((%%//(((/////////(((((((//@%%       //////////%%  ((            
+             ((////(((((///////(((((///////////////////////%  ((              
+            (  ////(((((/////(((((((((//////////((((///@@%% ((                
+             ////(((//////@//////(((((((((((((////@@@%%    (                  
+          (( /////////@@%% %%@@@@@@@@@@@@@@@@@@@%%     ((                     
+        ((  @@@@@%%   ((                                                      
+        ((       (((                                                          
+                                                                              
+                                                                              
+                                                                              
+                                    %%//%                                     
+                                 (  //((/  ((                                 
+                                 (  ///////((                                 
+                                 (  ///////((                                 
+                                    /////  ((                                 
+                                      //                                      
+                                      //                                      
+                                                                              
+                        ((          /////         ((                          

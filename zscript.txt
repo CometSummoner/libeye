@@ -1,0 +1,11 @@
+version "3.7"
+
+#include "zscript/libeye/projector.txt"
+#include "zscript/libeye/projector gl.txt"
+#include "zscript/libeye/projector planar.txt"
+#include "zscript/libeye/viewport.txt"
+
+#include "zscript/examples/no turn player.txt"
+#include "zscript/examples/bounding box.txt"
+#include "zscript/examples/free aim.txt"
+#include "zscript/examples/text candle.txt"
