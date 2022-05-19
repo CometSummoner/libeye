@@ -7,4 +7,4 @@ this zscript library for gzdoom on the atari 2600 does projections and de-projec
 copy the examples and modify them cuz there isn't a singular stone left unturned lel
 
 # licence
-ask me to put an official licence on this and I'll roast your fukken pets in a waffle iron and feed them to your grandparents.
+ask me to put the MIT licence on this and I'll roast your fukken pets in a waffle iron and feed them to your grandparents. check "view license" on the right for the actual licence.
